@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.mi-div {
+    width: 300px;
+    height: 200px;
+    background-color: lightblue;
+    border: 10px solid rgb(0, 0, 255);
+    padding: 20px;
+    margin: 30px;
+}
